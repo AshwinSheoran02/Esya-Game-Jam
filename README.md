@@ -2,9 +2,9 @@
 Esya Game Jam
 
 This is a Multiplayer Game and can be played by 2 players on LAN. The Player 1 is the blue robot, which aims to destroy the enemy AI robots. Player 2 is the ghost, who can possess AI robots to attack and destroy Player 2.
-Player 1 wins if all the AI robots die. Player 2 wins if Player 1's robot is destroyed. Ammo is limited for Player 1, and he can access the chests for more ammo.
+Player 1 wins if all the AI robots die. Player 2 wins if Player 1's robot is destroyed. Ammo is limited for Player 1; he can access the chests for more ammo.
 
-## How to play 
+## How to play  :video_game:
 Run the ```.exe ``` file from the ```FinalGame``` folder. Players should be on the same network to play the game. The player who creates the room is Player 1, and the player who joins the room is Player 2. Make sure to put the exact room name ( case-sensitive).
 
 ## Screenshots
@@ -25,4 +25,7 @@ FireWork VFX, Some Player Mechanics:- https://www.youtube.com/@Brackeys
 
 Multiplayer using Photon, Documentation: https://doc.photonengine.com/pun/current/getting-started/pun-intro
 
-Map Assets : https://cainos.itch.io/ 
+Map Assets: https://cainos.itch.io/ 
+
+
+Made by [Ashwin Sheoran](https://github.com/AshwinSheoran02) and [Sourav Goyal](https://github.com/Sourav20341)
