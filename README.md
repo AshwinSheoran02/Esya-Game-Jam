@@ -15,3 +15,8 @@ Player 1 wins if all the AI robots die. Player 2 wins if Player 1's robot is des
 
 <img width="400" alt="Screenshot 2023-08-25 223120" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/b8299071-4ea5-4b37-8669-d4661b884d8e">
 <img width="400" alt="Screenshot 2023-08-25 222841" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/76accaf5-263c-421c-bd49-333f55958fc6">
+
+Sources :-
+
+FireWork VFX,Some Player Mechanics :- https://www.youtube.com/@Brackeys
+Multiplayer using Photon :- https://doc.photonengine.com/pun/current/getting-started/pun-intro
