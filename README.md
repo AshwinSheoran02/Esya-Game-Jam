@@ -18,5 +18,5 @@ Player 1 wins if all the AI robots die. Player 2 wins if Player 1's robot is des
 
 Sources :-
 
-FireWork VFX,Some Player Mechanics :- https://www.youtube.com/@Brackeys
-Multiplayer using Photon :- https://doc.photonengine.com/pun/current/getting-started/pun-intro
+<br /> FireWork VFX,Some Player Mechanics :- https://www.youtube.com/@Brackeys
+<br /> Multiplayer using Photon :- https://doc.photonengine.com/pun/current/getting-started/pun-intro
