@@ -7,9 +7,9 @@ Player 1 wins if all the AI robots die. Player 2 wins if Player 1's robot is des
 ## Screenshots
 
 <img width="400" alt="Screenshot 2023-08-25 222800" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/6c5f6560-6137-44ac-b166-2bf373cce7a9">
+<img width="400" alt="Screenshot 2023-08-25 223054" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/ed14b679-b235-4a49-8780-f916cf74b44a">
 
 <img width="400" alt="Screenshot 2023-08-25 223222" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/61629993-02c0-48f4-bbc1-0eda7031b965">
-<img width="400" alt="Screenshot 2023-08-25 223054" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/ed14b679-b235-4a49-8780-f916cf74b44a">
 
 <img width="400" alt="Screenshot 2023-08-25 223152" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/6dd2a012-db4d-413b-b251-9a6767c102d6">
 
