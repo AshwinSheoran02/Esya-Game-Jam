@@ -27,5 +27,6 @@ Multiplayer using Photon, Documentation: https://doc.photonengine.com/pun/curren
 
 Map Assets: https://cainos.itch.io/ 
 
+<hr>
 
 Made by [Ashwin Sheoran](https://github.com/AshwinSheoran02) and [Sourav Goyal](https://github.com/Sourav20341)
