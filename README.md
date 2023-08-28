@@ -1,6 +1,7 @@
 # Esya-Game-Jam
 Esya Game Jam
 
+### Multiplayer Shooter Brawl
 This is a Multiplayer Game and can be played by 2 players on LAN. The Player 1 is the blue robot, which aims to destroy the enemy AI robots. Player 2 is the ghost, who can possess AI robots to attack and destroy Player 2.
 Player 1 wins if all the AI robots die. Player 2 wins if Player 1's robot is destroyed. Ammo is limited for Player 1; he can access the chests for more ammo.
 
