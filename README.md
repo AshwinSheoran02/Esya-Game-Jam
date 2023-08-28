@@ -10,15 +10,13 @@ Run the ```.exe ``` file from the ```FinalGame``` folder. Players should be on t
 
 ## Screenshots
 
-<img width="400" alt="Screenshot 2023-08-25 222800" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/6c5f6560-6137-44ac-b166-2bf373cce7a9"> 
-<img width="400" alt="Screenshot 2023-08-25 223054" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/ed14b679-b235-4a49-8780-f916cf74b44a">
+<img width="400" alt="Screenshot 2023-08-25 222800" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/1ccee777-70a2-419b-bcdf-c934cd89c872">
 
-<img width="400" alt="Screenshot 2023-08-25 223222" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/61629993-02c0-48f4-bbc1-0eda7031b965">
-
-<img width="400" alt="Screenshot 2023-08-25 223152" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/6dd2a012-db4d-413b-b251-9a6767c102d6">
-
-<img width="400" alt="Screenshot 2023-08-25 223120" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/b8299071-4ea5-4b37-8669-d4661b884d8e">
-<img width="400" alt="Screenshot 2023-08-25 222841" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/76accaf5-263c-421c-bd49-333f55958fc6">
+<img width="400" alt="Screenshot 2023-08-25 223054" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/04e561c9-84b7-4605-9ec4-80201987d7b8">
+<img width="400" alt="Screenshot 2023-08-25 223222" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/2686ef1e-1ff3-4f15-9d51-44eac3562661">
+<img width="400" alt="Screenshot 2023-08-25 223126" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/e1fcf9ad-7c93-43f9-b2f6-bdc5d6209101">
+<img width="400" alt="Screenshot 2023-08-25 223152" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/d1d3b979-4430-44ad-9968-c8a86e6e05e1">
+<img width="400" alt="Screenshot 2023-08-25 222841" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/5021484c-7858-4f1e-86b1-4ef5da020f34">
 
 ## Sources :-
 
