@@ -10,7 +10,7 @@ Run the ```.exe ``` file from the ```FinalGame``` folder. Players should be on t
 
 ## Screenshots
 
-<img width="400" alt="Screenshot 2023-08-25 222800" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/6c5f6560-6137-44ac-b166-2bf373cce7a9">
+<img width="400" alt="Screenshot 2023-08-25 222800" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/6c5f6560-6137-44ac-b166-2bf373cce7a9"> 
 <img width="400" alt="Screenshot 2023-08-25 223054" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/ed14b679-b235-4a49-8780-f916cf74b44a">
 
 <img width="400" alt="Screenshot 2023-08-25 223222" src="https://github.com/AshwinSheoran02/Esya-Game-Jam/assets/88393756/61629993-02c0-48f4-bbc1-0eda7031b965">
